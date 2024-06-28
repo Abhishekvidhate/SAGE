@@ -31,11 +31,6 @@ SAGE is a complete code assistant application based on LLM-based Agent with self
 
 ***SAGE*** is build using **Langchain Ecosystem**(chains,graphs,prompts(from hub)) & **Streamlit** for UI , **langsmith** for all the tracing/monitoring/LLMops task required to ensure SAGE works properly with no issues. SAGE uses LLAMA3-8b-8192 provided by **GROQ**(fastest inference for LLM)
 
-  </div>
-  <div>
-    <img src="images/sage_chibi-removebg-preview.png" alt="Features Image" style="width:100%;">
-  </div>
-</div>
 
 ## Working/Workflow :
 
