@@ -1,0 +1,16 @@
+langchain
+langchain-groq
+streamlit
+python-dotenv
+bs4
+langchain-community
+requests
+jupyter
+duckduckgo-search
+tavily-python
+langchain-chroma
+tiktoken
+GitPython
+langchain-huggingface
+sentence-transformers
+transformers
