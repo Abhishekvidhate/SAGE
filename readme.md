@@ -45,7 +45,7 @@ SAGE is a complete code assistant application based on LLM-based Agent with self
 
 *general perfomance evalution metrics :-* 
 
-| Metric               | Your LLM       | GPT-3.5 Turbo   | CodeLlama      |
+| Metric               | SAGE      | GPT-3.5 Turbo   | CodeLlama      |
 |----------------------|----------------|-----------------|----------------|
 | Accuracy             | 85%            | 90%             | 88%            |
 | Latency (seconds)    | 1.2            | 0.8             | 1.1            |
